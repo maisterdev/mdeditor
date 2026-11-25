@@ -1,0 +1,4 @@
+interface:
+  display_name: MdEditor · LucasMsdv
+  short_description: Edição de footage, motion e Reels em etapas
+  default_prompt: Use MdEditor para planejar ou editar meu vídeo. Primeiro pergunte se vou editar gravações, criar motion do zero ou adaptar para Reel; mostre a interface, o resumo e confirme as escolhas antes de exportar.

@@ -1,0 +1,15 @@
+# Local user media and caches
+*.mp4
+*.mov
+*.mxf
+*.wav
+*.aiff
+*.psd
+*.drp
+*.prproj
+.DS_Store
+Thumbs.db
+.env
+
+# Optional emoji images are not part of the base distribution
+/site/assets/emojis/*.png
